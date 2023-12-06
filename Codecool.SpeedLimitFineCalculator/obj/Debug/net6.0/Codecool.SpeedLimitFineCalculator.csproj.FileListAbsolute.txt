@@ -1,0 +1,43 @@
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.exe
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.deps.json
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.runtimeconfig.json
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\refint\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Desktop\Programozás_Codecool\OOP\2 SI\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\ref\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.exe
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.deps.json
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.runtimeconfig.json
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfoInputs.cache
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfo.cs
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\refint\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.genruntimeconfig.cache
+C:\Users\UpgradePC\Desktop\Codecool\OOP\speed-limit-fine-calculator-1q2023-csharp-vandaszabo\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\ref\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.exe
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.deps.json
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.runtimeconfig.json
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\bin\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfoInputs.cache
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.AssemblyInfo.cs
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.csproj.CoreCompileInputs.cache
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\refint\Codecool.SpeedLimitFineCalculator.dll
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.pdb
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\Codecool.SpeedLimitFineCalculator.genruntimeconfig.cache
+C:\Users\UpgradePC\Desktop\Codecool\Speed-Limit-Fine-Calculator\Codecool.SpeedLimitFineCalculator\obj\Debug\net6.0\ref\Codecool.SpeedLimitFineCalculator.dll
